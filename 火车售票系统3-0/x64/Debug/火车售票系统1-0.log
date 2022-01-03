@@ -1,0 +1,7 @@
+﻿D:\vs2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(火车售票系统1-0.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\tchar.h(887,1): warning C4005: “_stprintf”: 宏重定义
+D:\Code\火车售票系统3-0\源.cpp(5): message : 参见“_stprintf”的前一个定义
+D:\Code\火车售票系统3-0\源.cpp(272,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\火车售票系统3-0\源.cpp(369,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  火车售票系统1-0.vcxproj -> D:\Code\火车售票系统3-0\x64\Debug\火车售票系统3-0.exe
